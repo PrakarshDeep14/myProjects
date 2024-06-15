@@ -1,4 +1,4 @@
 # myProjects
 My Repository.
 <br>
-Author - Prakarsh Deep
+Author - Prakarsh Deep Srivastava
